@@ -1,0 +1,13 @@
+site_name: Seismic Source
+site_author: Wenying Li
+copyright: 2019-2119 Seismic Source Laboratory in Peking University. All Rights Reserved.
+pages:
+- Home: index.md
+- Chinese: chinese.md
+- Team Members: team.md
+- Latest Progress: progress.md
+- Conference Schedule: plan.md
+- Literature Reading: reading.md
+- Download: download.md
+
+

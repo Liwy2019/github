@@ -45,11 +45,11 @@ git push origin master 将命令提交到远程github中，第一次之后的提
 
 .md文件编辑使用：直接用markdown打开，右边窗口有参考效果图。
 
-![](/Websiteori/picture/mkdown.png)
+![](/Websiteori/picture/mkdown.PNG)
 
 在终端进入Websiteori文件夹，输入：mkdocs serve 会得到一个仅在本机有效地网址，一般为http://127.0.0.1:8000； 本机进入该网页，可以实时看到最新更新结果，建议在本机网页确定修改更新无误（无404）之后再上传到github
 
-![](/Websiteori/picture/mdocsserve.png)
+![](/Websiteori/picture/mdocsserve.PNG)
 
 在修改.md文件完成之后，在终端输入：mkdocs build； 在Websiteori文件夹下会生成一个名字为site的文件夹，将site文件夹中所有内容复制到github.io文件夹下，按3中方式上传即可。
  

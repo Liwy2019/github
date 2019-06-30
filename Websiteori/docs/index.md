@@ -1,10 +1,12 @@
-# Welcome to Seismic Source Laboratory of Peking University 
+# Welcome to Zhang Yong Group of Peking University 
 
 ## Introduction
 The movement process of earthquake source plays a key role in post-earthquake disaster relief and assistance. Real-time seismology provides a theoretical basis for earthquake early warning and rapid reporting. The source kinematics and real-time seismic inversion are carried out based on the data of strong earthquakes, teleseismics, GPS, Insar and other broadband or high-frequency bands. Effective estimation of source parameters and fault parameters is made. The calculation of direction, scale and velocity of earthquake rupture provides data basis for seismic analysis. The laboratory pays attention to communication with colleagues in various fields at home and abroad, and contributes to the development of focal motion and real-time inversion.
 
 ## Team Leader
 **Yong Zhang**
+
+![](/Websiteori/picture/yzpic.png)
 
 2014.03-Present Research Fellow, School of Earth and Space Sciences, Peking University
 

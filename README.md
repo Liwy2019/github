@@ -35,11 +35,11 @@ git commit -m "message" 提交到本地的版本控制库，“”内为本次�
 
 git push origin master 将命令提交到远程github中，第一次之后的提交只需要git push 即可
 
-登录https://github.com/Liwy2019/github.io可以查看提交的代码了
+登录https://github.com/Liwy2019/github.io 可以查看提交的代码了
 
 # 4. 使用（有更简单的使用办法，但小白我木有研究出来）
 
-请将https://github.com/Liwy2019/github.io网页下面所有文件按3中方式下载到A/github.io文件夹下面
+请将https://github.com/Liwy2019/github.io 网页下面所有文件按3中方式下载到A/github.io文件夹下面
 
 进入命名为Websiteori文件夹下进行内容更新（.md文件）
 

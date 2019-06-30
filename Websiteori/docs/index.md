@@ -6,7 +6,7 @@ The movement process of earthquake source plays a key role in post-earthquake di
 ## Team Leader
 **Yong Zhang**
 
-![](/Websiteori/picture/yzpic.png)
+![](/Websiteori/picture/yzpic.PNG)
 
 2014.03-Present Research Fellow, School of Earth and Space Sciences, Peking University
 

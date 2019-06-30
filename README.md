@@ -8,7 +8,7 @@ python
 
 注册一个github账号
 
-#2. 建立本地仓库
+# 2. 建立本地仓库
 
 在本地电脑建立文件夹：A；
 
@@ -18,7 +18,7 @@ python
 
 在A目录下会生成名字为github.io的文件夹，进入该文件夹。该文件夹即为本地仓库。
 
-#3. 下载和上传
+# 3. 下载和上传
 下载：
 
 git pull * (将github仓库中的内容与本地仓库对比并下载)
@@ -37,7 +37,7 @@ git push origin master 将命令提交到远程github中，第一次之后的提
 
 登录https://github.com/Liwy2019/github.io可以查看提交的代码了
 
-#4. 使用（有更简单的使用办法，但小白我木有研究出来）
+# 4. 使用（有更简单的使用办法，但小白我木有研究出来）
 
 请将https://github.com/Liwy2019/github.io网页下面所有文件按3中方式下载到A/github.io文件夹下面
 

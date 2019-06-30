@@ -23,7 +23,7 @@ python
 
 git pull * (将github仓库中的内容与本地仓库对比并下载)
 
-也可以直接进入https://github.com/Liwy2019/github.io，点击clone or download 即可
+也可以直接进入https://github.com/Liwy2019/github.io 点击clone or download 即可
 
 git merge (合并本地仓库的更新内容与github仓库内容合并)
 
